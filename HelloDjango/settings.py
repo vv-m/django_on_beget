@@ -1,4 +1,4 @@
-# Тестовый комментарий
+# Восстановил настройки
 
 from pathlib import Path
 
@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-lzb2di94m4n32ogltf12736iorhyj1c3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['vlad372d.beget.tech']
 
 
 # Application definition
